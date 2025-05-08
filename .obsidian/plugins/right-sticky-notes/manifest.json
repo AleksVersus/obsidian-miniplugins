@@ -1,0 +1,10 @@
+{
+	"id": "right-sticky-notes",
+	"name": "Right Sticky Notes",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Add sticky-notes to right panel.",
+	"author": "Aleks Versus",
+	"authorUrl": "https://aleksversus.narod.ru",
+	"isDesktopOnly": false
+}
