@@ -142,27 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Добро пожаловать"
+              "title": "Структура README"
             }
           },
           {
-            "id": "2c98061d9af8b0ee",
-            "type": "leaf",
-            "state": {
-              "type": "right-sticky-view",
-              "state": {},
-              "icon": "lucide-sticky-note",
-              "title": "Sticky Notes"
-            }
-          },
-          {
-            "id": "5c89bd3beb0f00bd",
+            "id": "9889b1e0283a4718",
             "type": "leaf",
             "state": {
               "type": "right-sticky-view",
@@ -172,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,7 +178,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "abe4bf996e75c906",
+  "active": "9889b1e0283a4718",
   "lastOpenFiles": [
     "Добро пожаловать.md"
   ]

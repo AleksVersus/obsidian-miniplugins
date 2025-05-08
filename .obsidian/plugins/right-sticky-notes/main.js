@@ -287,12 +287,6 @@ class RightStyckyPlugin extends Plugin {
             this._activateView();
         });
 
-        // const notes = [ 
-        //     { noteHead: 'Заголовок 1', noteBody: 'Тело 1' }, 
-        //     { noteHead: 'Заголовок 2', noteBody: 'Тело 2' } 
-        // ];
-        // this.saveData({ notes });
-
         console.log('Right Sticky Plugin загружен.');
     }
 
